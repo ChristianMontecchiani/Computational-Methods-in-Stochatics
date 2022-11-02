@@ -1,8 +1,8 @@
 # Computational-Methods-in-Stochatics
 Course Repository for "Computational Methods in Stochastics" at AALTO Univeristy in Helsinki CS-E5795.
-Topics include: 
+In this repository are presented 7 assignements of the course which regrad the following topics: 
 
-1. Simulating standard probability distributions. 
+1. Simulating standard probability distributions:
 
 2. Methods of simulating 'non-standard' distributions. Logarithmic binning.
 
